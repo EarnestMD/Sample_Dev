@@ -1,6 +1,3 @@
-hi HII
-Hello 
-Hope you are good
-
-im martin
-you?
+hi
+hello
+how are you
